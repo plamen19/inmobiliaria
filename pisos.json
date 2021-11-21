@@ -20,7 +20,11 @@
                      "ubicacion": "Urbanización Ficticia Nº2",
                      "provincia": "Valencia",
                      "tipo": "piso",
-                     "fotos": []
+                     "fotos": ["https://images.habimg.com/imgh/12250-734/balcon-de-oliva-venta-de-aticos-en-oliva-oliva_12250-img734-21369G.jpg",
+                              "https://images.habimg.com/imgh/12250-734/balcon-de-oliva-venta-de-aticos-en-oliva-oliva_12250-img734-21379G.jpg",
+                              "https://images.habimg.com/imgh/12250-734/balcon-de-oliva-venta-de-aticos-en-oliva-oliva_12250-img734-21381G.jpg",
+                              "https://images.habimg.com/imgh/12250-734/balcon-de-oliva-venta-de-aticos-en-oliva-oliva_12250-img734-21349G.jpg"
+                              ]
               },
               {
                      "nombre": "Casa rural en Montdúver",
@@ -28,7 +32,11 @@
                      "ubicacion": "Urbanización Ficticia Nº3",
                      "provincia": "Valencia",
                      "tipo": "casa",
-                     "fotos": []
+                     "fotos": ["https://images.habimg.com/imgh/3636-1557003/casa-de-campo-en-arseguel-arseguel_3636-img1557003-2217G.jpg",
+                              "https://images.habimg.com/imgh/3636-1557003/casa-de-campo-en-arseguel-arseguel_3636-img1557003-2233G.jpg",
+                              "https://images.habimg.com/imgh/3636-1557003/casa-de-campo-en-arseguel-arseguel_3636-img1557003-2220G.jpg",
+                              "https://images.habimg.com/imgh/3636-1557003/casa-de-campo-en-arseguel-arseguel_3636-img1557003-2215G.jpg",
+                              ]
               }
        ],
 
@@ -40,7 +48,11 @@
                      "ubicacion": "Urbanización Ficticia Nº1",
                      "provincia": "Valencia",
                      "tipo": "chalet",
-                     "fotos": ["https://www.despedidassolterogandia.com/wp-content/uploads/2016/08/chalet.png"]
+                     "fotos": ["https://images.habimg.com/imgh/30303-8353/chalet-con-6-habitaciones-y-piscina-comunitaria-gandia_30303-img8353-45483G.jpg",
+                              "https://images.habimg.com/imgh/30303-8353/chalet-con-6-habitaciones-y-piscina-comunitaria-gandia_30303-img8353-45474G.jpg",
+                               "https://images.habimg.com/imgh/30303-8353/chalet-con-6-habitaciones-y-piscina-comunitaria-gandia_30303-img8353-45466G.jpg",
+                               "https://images.habimg.com/imgh/30303-8353/chalet-con-6-habitaciones-y-piscina-comunitaria-gandia_30303-img8353-45475G.jpg"
+                              ]
               },
               {
                      "nombre": "Piso reformado en Oliva",
@@ -48,7 +60,11 @@
                      "ubicacion": "Urbanización Ficticia Nº2",
                      "provincia": "Valencia",
                      "tipo": "piso",
-                     "fotos": []
+                     "fotos": ["https://images.habimg.com/imgh/12250-734/balcon-de-oliva-venta-de-aticos-en-oliva-oliva_12250-img734-21369G.jpg",
+                              "https://images.habimg.com/imgh/12250-734/balcon-de-oliva-venta-de-aticos-en-oliva-oliva_12250-img734-21379G.jpg",
+                              "https://images.habimg.com/imgh/12250-734/balcon-de-oliva-venta-de-aticos-en-oliva-oliva_12250-img734-21381G.jpg",
+                              "https://images.habimg.com/imgh/12250-734/balcon-de-oliva-venta-de-aticos-en-oliva-oliva_12250-img734-21349G.jpg"
+                              ]
               },
               {
                      "nombre": "Casa rural en Montdúver",
@@ -56,7 +72,11 @@
                      "ubicacion": "Urbanización Ficticia Nº3",
                      "provincia": "Valencia",
                      "tipo": "casa",
-                     "fotos": []
+                     "fotos": ["https://images.habimg.com/imgh/3636-1557003/casa-de-campo-en-arseguel-arseguel_3636-img1557003-2217G.jpg",
+                              "https://images.habimg.com/imgh/3636-1557003/casa-de-campo-en-arseguel-arseguel_3636-img1557003-2233G.jpg",
+                              "https://images.habimg.com/imgh/3636-1557003/casa-de-campo-en-arseguel-arseguel_3636-img1557003-2220G.jpg",
+                              "https://images.habimg.com/imgh/3636-1557003/casa-de-campo-en-arseguel-arseguel_3636-img1557003-2215G.jpg",
+                              ]
               }
        ]
 
