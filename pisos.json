@@ -8,7 +8,11 @@
                      "ubicacion": "Urbanización Ficticia Nº1",
                      "provincia": "Valencia",
                      "tipo": "chalet",
-                     "fotos": ["https://www.despedidassolterogandia.com/wp-content/uploads/2016/08/chalet.png"]
+                     "fotos": ["https://images.habimg.com/imgh/30303-8353/chalet-con-6-habitaciones-y-piscina-comunitaria-gandia_30303-img8353-45483G.jpg",
+                              "https://images.habimg.com/imgh/30303-8353/chalet-con-6-habitaciones-y-piscina-comunitaria-gandia_30303-img8353-45474G.jpg",
+                               "https://images.habimg.com/imgh/30303-8353/chalet-con-6-habitaciones-y-piscina-comunitaria-gandia_30303-img8353-45466G.jpg",
+                               "https://images.habimg.com/imgh/30303-8353/chalet-con-6-habitaciones-y-piscina-comunitaria-gandia_30303-img8353-45475G.jpg"
+                              ]
               },
               {
                      "nombre": "Piso reformado en Oliva",
