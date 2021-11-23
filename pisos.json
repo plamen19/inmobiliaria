@@ -2,6 +2,7 @@
 
        "alquiler":[
               {
+                     "id": 1,
                      "nombre": "Chalet en Gandía",
                      "precio": "550",
                      "rebaja": "500",
@@ -15,6 +16,7 @@
                               ]
               },
               {
+                     "id": 2,
                      "nombre": "Piso reformado en Oliva",
                      "precio": "300",
                      "ubicacion": "Urbanización Ficticia Nº2",
@@ -27,6 +29,7 @@
                               ]
               },
               {
+                     "id": 3,
                      "nombre": "Casa rural en Montdúver",
                      "precio": "425",
                      "ubicacion": "Urbanización Ficticia Nº3",
@@ -42,6 +45,7 @@
 
        "venta":[
               {
+                     "id": 1,
                      "nombre": "Chalet en Gandía",
                      "precio": "250500",
                      "rebaja": "234995",
@@ -55,6 +59,7 @@
                               ]
               },
               {
+                     "id": 2,
                      "nombre": "Piso reformado en Oliva",
                      "precio": "190000",
                      "ubicacion": "Urbanización Ficticia Nº2",
@@ -67,6 +72,7 @@
                               ]
               },
               {
+                     "id": 3,
                      "nombre": "Casa rural en Montdúver",
                      "precio": "143000",
                      "ubicacion": "Urbanización Ficticia Nº3",
