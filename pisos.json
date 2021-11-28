@@ -3,8 +3,8 @@
        "alquiler":[
               {
                      "nombre": "Chalet en Gandía",
-                     "precio": "550",
-                     "rebaja": "500",
+                     "precio": 550,
+                     "rebaja": 500,
                      "ubicacion": "Urbanización Ficticia Nº1",
                      "provincia": "Valencia",
                      "tipo": "chalet",
@@ -16,7 +16,7 @@
               },
               {
                      "nombre": "Piso reformado en Oliva",
-                     "precio": "300",
+                     "precio": 300,
                      "ubicacion": "Urbanización Ficticia Nº2",
                      "provincia": "Valencia",
                      "tipo": "piso",
@@ -28,7 +28,7 @@
               },
               {
                      "nombre": "Casa rural en Montdúver",
-                     "precio": "425",
+                     "precio": 425,
                      "ubicacion": "Urbanización Ficticia Nº3",
                      "provincia": "Valencia",
                      "tipo": "casa",
@@ -43,8 +43,8 @@
        "venta":[
               {
                      "nombre": "Chalet en Gandía",
-                     "precio": "250500",
-                     "rebaja": "234995",
+                     "precio": 250500,
+                     "rebaja": 234995,
                      "ubicacion": "Urbanización Ficticia Nº1",
                      "provincia": "Valencia",
                      "tipo": "chalet",
@@ -56,7 +56,7 @@
               },
               {
                      "nombre": "Piso reformado en Oliva",
-                     "precio": "190000",
+                     "precio": 190000,
                      "ubicacion": "Urbanización Ficticia Nº2",
                      "provincia": "Valencia",
                      "tipo": "piso",
@@ -68,7 +68,7 @@
               },
               {
                      "nombre": "Casa rural en Montdúver",
-                     "precio": "143000",
+                     "precio": 143000,
                      "ubicacion": "Urbanización Ficticia Nº3",
                      "provincia": "Valencia",
                      "tipo": "casa",
