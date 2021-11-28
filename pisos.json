@@ -10,6 +10,7 @@
                      "tipo": "chalet",
                      "habitaciones": 4,
                      "banos": 2,
+                     "m2": 83,
                      "fotos": [ "foto_0_1", "foto_0_2", "foto_0_3", "foto_0_4" ]
               },
               {
@@ -20,6 +21,7 @@
                      "tipo": "piso",
                      "habitaciones": 2,
                      "banos": 1,
+                     "m2": 64,
                      "fotos": [ "foto_1_1", "foto_1_2", "foto_1_3", "foto_1_4" ]
               },
               {
@@ -30,6 +32,7 @@
                      "tipo": "casa",
                      "habitaciones": 3,
                      "banos": 1,
+                     "m2": 80,
                      "fotos": [ "foto_2_1", "foto_2_2", "foto_2_3", "foto_2_4" ]
               }
        ],
@@ -44,6 +47,7 @@
                      "tipo": "chalet",
                      "habitaciones": 4,
                      "banos": 2,
+                     "m2": 83,
                      "fotos": [ "foto_0_1", "foto_0_2", "foto_0_3", "foto_0_4" ]
               },
               {
@@ -54,6 +58,7 @@
                      "tipo": "piso",
                      "habitaciones": 2,
                      "banos": 1,
+                     "m2": 64,
                      "fotos": [ "foto_1_1", "foto_1_2", "foto_1_3", "foto_1_4" ]
               },
               {
@@ -64,6 +69,7 @@
                      "tipo": "casa",
                      "habitaciones": 3,
                      "banos": 1,
+                     "m2": 80,
                      "fotos": [ "foto_2_1", "foto_2_2", "foto_2_3", "foto_2_4" ]
               }
        ]
